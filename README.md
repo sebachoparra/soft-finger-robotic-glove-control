@@ -105,8 +105,6 @@ See [hardware/pcb/](hardware/pcb/) for the PCB design files (schematics,
 board layout, Gerbers, BOM) as they're added.
 
 ## Videos / images
-<img width="330" alt="WhatsApp Image 2026-10-04 at 10 01 14 PM"
-src="https://github.com/user-attachments/assets/9c0c04e3-8ee4-4442-a6f2-aa86ed6dc697" />
 
 <img width="330" alt="WhatsApp Image 2026-10-04 at 10 00 35 PM"
 src="https://github.com/user-attachments/assets/497aaf0e-881a-4362-9236-c7f4870c97c5" />
