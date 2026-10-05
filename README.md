@@ -1,4 +1,4 @@
-# Soft Glove — ROS 2 Jazzy + RP2040 Pneumatic Soft-Robotics Glove
+# Soft Glove finguer — ROS 2 Jazzy + RP2040 Pneumatic Soft-Robotics Glove
 
 ## Overview
 
@@ -106,4 +106,5 @@ board layout, Gerbers, BOM) as they're added.
 
 ## Videos / Demos
 
-- _(add YouTube links here as they become available)_
+https://www.youtube.com/watch?v=xD6xNQJiuTE
+https://www.youtube.com/watch?v=xD6xNQJiuTE
