@@ -1,6 +1,7 @@
 # Soft Glove finguer — ROS 2 Jazzy + RP2040 Pneumatic Soft-Robotics Glove
 
 ## Overview
+<img width="899" height="1599" alt="WhatsApp Image 2026-07-07 at 7 28 50 AM" src="https://github.com/user-attachments/assets/ea2a0fb9-6ace-4724-b6cd-e9939c194833" />
 
 This project controls a pneumatically-actuated soft-robotics glove. It is
 migrating a validated, standalone RP2040 ("Pico") controller
