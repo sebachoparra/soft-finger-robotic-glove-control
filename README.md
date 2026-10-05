@@ -109,5 +109,5 @@ board layout, Gerbers, BOM) as they're added.
 <img width="330" alt="WhatsApp Image 2026-10-04 at 10 00 35 PM"
 src="https://github.com/user-attachments/assets/497aaf0e-881a-4362-9236-c7f4870c97c5" />
 
-https://www.youtube.com/watch?v=xD6xNQJiuTE
-https://www.youtube.com/watch?v=mgc86TizZoE
+Soft pneumatic finger with ADRC controller https://www.youtube.com/watch?v=xD6xNQJiuTE
+Soft pneumatic controller with a PI https://www.youtube.com/watch?v=mgc86TizZoE
