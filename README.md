@@ -1,4 +1,4 @@
-# Soft Glove finguer — ROS 2 Jazzy + RP2040 Pneumatic Soft-Robotics Glove
+# Soft Glove finger — ROS 2 Jazzy + RP2040 Pneumatic Soft-Robotics Glove
 
 ## Overview
 
